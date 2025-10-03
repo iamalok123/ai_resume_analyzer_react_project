@@ -1,8 +1,8 @@
 # AI Resume Analyzer
 
 
-## Link - 
-
+## Live Preview
+[AI Resume Analyzer](https://ai-resume-analyzer-v69.vercel.app/)
 
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
